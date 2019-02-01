@@ -1,4 +1,4 @@
-## 3D-curvature-analysis-of-seismic-waveforms-and-its-interpretational-implications
+## 3D Curvature Analysis of Seismic Waveforms and its Interpretational Implications
 
 
 Codes and data will be released soon. 
