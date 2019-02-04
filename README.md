@@ -2,7 +2,7 @@
 
 Codes and data from the journal paper: 
 
-H. Di, M. Alfarraj, and G. AlRegib. "Three‐dimensional curvature analysis of seismic waveforms and its interpretational implications." Geophysical Prospecting (2018). 
+ - H. Di, M. Alfarraj, and G. AlRegib. "Three‐dimensional curvature analysis of seismic waveforms and its interpretational implications." Geophysical Prospecting (2018). 
 
 ```
 @article{di2018three,
